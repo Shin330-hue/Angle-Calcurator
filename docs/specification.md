@@ -103,7 +103,7 @@
 ## ファイル構成
 
 ```
-app/src/main/java/com/example/angle_calculator/
+app/src/main/java/com/anglecalc/app/
 ├── MainActivity.kt      # UI (ホーム、計算機、設定画面)
 ├── TriangleSolver.kt    # 計算ロジック
 ├── MemoryManager.kt     # 履歴の保存・読込

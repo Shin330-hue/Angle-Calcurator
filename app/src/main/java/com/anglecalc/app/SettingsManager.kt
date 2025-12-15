@@ -1,4 +1,4 @@
-package com.example.angle_calculator
+package com.anglecalc.app
 
 import android.content.Context
 import android.content.SharedPreferences

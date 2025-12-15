@@ -1,4 +1,4 @@
-package com.example.angle_calculator.ui.theme
+package com.anglecalc.app.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle

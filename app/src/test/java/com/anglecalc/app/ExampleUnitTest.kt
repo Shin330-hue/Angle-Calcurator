@@ -1,4 +1,4 @@
-package com.example.angle_calculator
+package com.anglecalc.app
 
 import org.junit.Test
 

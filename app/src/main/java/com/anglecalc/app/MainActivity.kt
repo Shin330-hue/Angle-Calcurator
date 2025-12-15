@@ -1,4 +1,4 @@
-package com.example.angle_calculator
+package com.anglecalc.app
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -30,7 +30,7 @@ import androidx.compose.ui.text.rememberTextMeasurer
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.angle_calculator.ui.theme.AngleCalculatorTheme
+import com.anglecalc.app.ui.theme.AngleCalculatorTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
